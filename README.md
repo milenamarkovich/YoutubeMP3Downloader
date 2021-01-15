@@ -9,9 +9,12 @@ As a fan of non-English music, I often find the Spotify database lacking in song
 1. Open your command prompt and install the necessary dependancies:
    1. Install youtube-dl: 'pip install youtube-dl' and 'pip install requirements.txt'
    1. Install ffmpeg: 'pip install ffmpeg' *you can check that you have correctly installed ffmpeg by typing 'ffmpeg' into the command line*
+   
 1. Create or choose a local folder in your Desktop in which to save your files - you can enter this file into the script directly or respond to the user prompt
+
 1. Log into your Spotify account and access your Settings -> Local Files and make sure the 'Save Local Files' is on.
    1. Select to 'Show songs from' the folder you have chosen for your MP3 files
+   
 1. Run the file - you can do this by typing 'python main.py' into the command prompt
 
 ## Note on Spotify Local Files
