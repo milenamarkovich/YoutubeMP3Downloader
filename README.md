@@ -16,3 +16,6 @@ As a fan of non-English music, I often find the Spotify database lacking in song
 
 ## Note on Spotify Local Files
 * The [Spotify API](https://developer.spotify.com/documentation/web-api/) does not currently support adding Local Files to your playlist - if you would like to add your MP3 files to a playlist you will have to do so manually by logging into your Spotify account Your Library -> Local Files, where you can find your files. To add a song to a playlist click on the 3 dots on the right-hand side of your desired song title, and add to a personal playlist!
+
+## ToDo
+* Create web-format for other users to access this tool
